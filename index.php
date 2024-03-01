@@ -95,7 +95,7 @@ if(isset($_GET['invalid2']))
 
 
                      <div class="site-branding-text">
-                        <p class="site-title">Basketball Team Management System </p>
+                        <p class="site-title">The Basketball Team Management System </p>
                         
                         <p class="site-description">Made with WordPress</p>
                      </div><!-- .site-branding-text -->
